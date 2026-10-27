@@ -112,6 +112,20 @@ img {
     gap: 24px;
 }
 
+.escuro {
+    background-color: #0a1630;
+    color:#FFFFFF
+}
+
+ .escuro .card1{
+    background-color: #0a1630;
+    color:#FFFFFF
+}
+
+.h2 {
+  color:#FFFFFF;
+}
+
 @media (max-width: 600px) {
     header {
 flex-direction: column;
