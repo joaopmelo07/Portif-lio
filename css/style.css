@@ -46,6 +46,24 @@ main {
     font-size: 35px;
 }
 
+.card2 {
+    background-color: #93B7BE;
+    padding: 15px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    box-shadow: 2px 8px rgba(0, 0, 0, 0.20);
+    font-size: 35px;
+}
+
+.card3 {
+    background-color: #93B7BE;
+    padding: 15px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    box-shadow: 2px 8px rgba(0, 0, 0, 0.20);
+    font-size: 35px;
+}
+
 .table2 {
     border-collapse: collapse;
     padding: 30px;
